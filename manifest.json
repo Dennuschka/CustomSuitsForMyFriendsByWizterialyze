@@ -1,6 +1,7 @@
 {
     "name": "CustomSuitsForMyFriendsByWizterialyze",
     "version_number": "1.0.0",
+    "website_url": "https://github.com/Dennuschka/CustomSuitsForMyFriendsByWizterialyze/",
     "description": "Just some custom suits me and my friend created for ourselves :D",
     "dependencies": [
         "x753-More_Suits-1.4.0"
